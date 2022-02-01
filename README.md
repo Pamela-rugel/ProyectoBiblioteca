@@ -5,7 +5,7 @@ Al principio del programa se genera una biblioteca con la siguiente información
 -----LIBROS DISPONIBLES----
 Código: 001, titulo: Crepúsculo, autor: Stephenie Meyer, cantidad: 6
 Código: 002, titulo: El diario de Ana Frank, autor: Anna Frank, cantidad: 7
-Código: 003, titulo: El código Da Vinci, autor: Dan Brown, cantidad: 1
+Código: 003, titulo: El código Da Vinci, autor: Dan Brown, cantidad: 4
 ```
 
 Para iniciar sesión como estudiante necesita ingresar la siguiente información
