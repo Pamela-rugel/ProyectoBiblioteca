@@ -24,10 +24,8 @@ Titulo:Crepúsculo, autor:Stephenie Meyer, fecha de emisión: 2022/1/31, fecha d
 Titulo:El diario de Ana Frank, autor:Anna Frank, fecha de emisión: 2022/1/31, fecha de devolución: 2022/3/2
 ```
 
-Cuando un estudiante requiera prestar libros, deberá ingresar los códigos hasta cuando quiera confirmarsu préstamo,entonces deberá enviar la letra C:
+Cuando un estudiante requiera prestar libros, debe ingresar los códigos hasta cuando quiera confirmar su préstamo, entonces enviará la letra C:
 ```
-Confirmar préstamo: C
-Cancelar préstamo: X
 Código: 
 003
 Código: 
@@ -37,8 +35,6 @@ Libros prestados con éxito!
 
 Y para cancelar el préstamo, deberá enviar como código la letra X:
 ```
-Confirmar préstamo: C
-Cancelar préstamo: X
 Código: 
 003
 Código: 
