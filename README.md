@@ -1,4 +1,4 @@
-# ProyectoBiblioteca
+# Proyecto Biblioteca
 Al principio del programa se genera una biblioteca con la siguiente información:
 
 ```
